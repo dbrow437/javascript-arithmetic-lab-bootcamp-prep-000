@@ -25,7 +25,3 @@ function dec(a, n){
 function makeInt(a, n){
   return parseInt()
 }
-
-function makeInt(n){
-  return parseInt(0x2328)
-}
