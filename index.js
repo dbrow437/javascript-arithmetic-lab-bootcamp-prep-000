@@ -1,3 +1,1 @@
-function add(){
-  return('a + b')
-}
+var = 'a + b'
