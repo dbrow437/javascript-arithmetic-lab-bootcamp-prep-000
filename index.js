@@ -30,4 +30,6 @@ function makeInt(n){
   return parseInt(n, 0)
 }
 
-function
+function makeInt(n){
+  return parseInt(n, 10)
+}
